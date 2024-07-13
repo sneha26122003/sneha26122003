@@ -5,7 +5,7 @@
 
 - I have learned so many languages and courses **|Html| |Css| |Frameworks- Tailwind CSS, Bootstrap,Bulma| |Javascript| |Framework ReactJS| |C| | Data structures using C++| |Php| |sql| |Mysql| |GA|**
 
-- 👨‍💻 All of my certifications and courses are available at [www.linkedin.com/in/sneha-agarwal-b35176251](www.linkedin.com/in/sneha-agarwal-b35176251)
+- 👨‍💻 All of my certifications and courses are available at Sneha Agarwal 
 
 - I have also learned **react**
 
